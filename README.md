@@ -8,7 +8,7 @@ A dynamic template to have a unique invitation page to your Discord server!
 
 You can test the it on [THIS SITE](https://ed0.it/freetime)!
 
-<img src="demo/Discord_Invite_Desktop.gif" title="" alt="Desktop" data-align="center">
+<img src="demo/Discord_Invite_Desktop.gif" title="NFTV DISCORD" alt="Desktop" data-align="center">
 
 ---
 
